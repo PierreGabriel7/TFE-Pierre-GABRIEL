@@ -41,6 +41,9 @@ AWS:
 Attention: les outils AWS ne sont pas les mêmes en fonction de la région, pour pouvoir avoir accès aux DB de ce projet.
 La région se sélectionne dans le header au dessus à droite, la région est Europe (Paris) eu-west-3
 
+
+Pour le service cognito, la table utilisateur correspondant au projet s'appelle "UserAndSocialPool" les autres tables ne sont plus utilisée.
+
 ========================
 URL de mon projet:
 	https://monlead.herokuapp.com/
