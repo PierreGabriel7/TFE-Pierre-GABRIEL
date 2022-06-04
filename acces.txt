@@ -1,0 +1,61 @@
+Repository HyperLedger Fabric
+	https://github.com/PierreGabriel7/hls-contracts/tree/main
+	
+	Le fichier pertinant comprenant les smart contrat et le code person ce trouve ici: 
+	https://github.com/PierreGabriel7/hls-contracts/blob/main/chaincode/contracts/javascript/lib/fabcar.js
+	
+	Le répertoire permetant le déploiement de mon fichier de smart contract ce trouve ici:
+	https://github.com/PierreGabriel7/hls-contracts/tree/main/fabcar/javascript
+	
+	Le répertoire comprenant la configuration du résau HyperLedger Fabric se trouve ici:
+	https://github.com/PierreGabriel7/hls-contracts/tree/main/test-network
+	
+	Le reste du répertoire n'est pas pertinant mais fait partie du sample de développement fournis par hyper ledger
+
+========================
+Repository projet MonLead
+	https://github.com/PierreGabriel7/tfe-MonLead/tree/prod-test
+	
+	Attention la version définitive se trouve sur la branche prod-test les autres branches ne sont pas à jour et sont non fonctionelles.
+
+========================
+Repository serveur API REST
+	https://github.com/PierreGabriel7/rest-server
+	
+	Le fichier permetant la communication avec le résau HyperLedger Fabric ce trouve ici:
+	https://github.com/PierreGabriel7/rest-server/blob/main/wallet/apiserver.js
+
+
+
+========================
+Acces Cognito et dynamoDB via un compte IAM (lecture seule)
+
+https://signin.aws.amazon.com/
+
+AWS:
+	Account ID : 497417104164
+	IAM user name : ISL_AWS
+	Password : ISL-AWS-2022
+	
+	
+Attention: les outils AWS ne sont pas les mêmes en fonction de la région, pour pouvoir avoir accès aux DB de ce projet.
+La région se sélectionne dans le header au dessus à droite, la région est Europe (Paris) eu-west-3
+
+========================
+URL de mon projet:
+	https://monlead.herokuapp.com/
+
+
+========================
+Comptes de test du projet MonLead:
+
+Pour essayer le projet MonLead sans devoir vous y connecter, vous pouvez vous connecter avec un de ces 3 comptes.
+
+	Apporteur d'affaires: 
+		startigtomss@yopmail.com : 123456
+		
+	Administrateur:
+		alt.ni-4oqle0hs@yopmail.com : 123456
+		
+	Gestionnaire: 
+		adminyopmonl@yopmail.com : 123456
